@@ -21,5 +21,7 @@ Run: <br />
 Output:<br />
   Console output will include the filenames of sliced portions given max size of each slice (~25s)<br />
   Speech to text output will be saved in the directory where [totext.py] is saved in the file named [rawfile.txt]<br />
-</pre>
+
+
 *Note the speech to text api is not flawless and will require proofreading*
+</pre>
